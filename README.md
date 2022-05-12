@@ -2,7 +2,7 @@
 
 Generates random numbers with properties such as DELAY, MAX NUMBER
 
-#Installation
+# Installation
 
 Click the 3 dots near the files
 
